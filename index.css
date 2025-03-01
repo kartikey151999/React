@@ -1,0 +1,19 @@
+#heading1{
+    color: darkgrey;
+}
+
+#parent{
+    border: 2px solid indianred;
+}
+#child{
+    margin: 2px 2px;
+    color: red;
+ }
+
+ #h1{
+    background-color: blanchedalmond;
+ }
+
+ #h2{
+    background-color: darkkhaki;
+ }
