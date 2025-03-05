@@ -1,0 +1,60 @@
+.container{
+   border: 3px solid navy;
+   margin: 3;
+}
+#heading{
+   background-color: palegreen;
+   margin: 3;
+}
+#head{
+   border: 3px double brown;
+   margin: 3;
+}
+
+.title{
+   background-color: yellowgreen;
+}
+
+#h1{
+   color: blueviolet;
+}
+#h2{
+   color: crimson;
+}
+#h3{
+   color: olivedrab;
+}
+
+
+.my-image{
+   height: 70;
+   width: 70;
+}
+
+.my-image3{
+   height: 40;
+   width: 25;
+   border: 2px solid;
+   border-radius: 5;
+   margin-left: 4;
+}
+#inputDiv{
+   display: flex;
+}
+
+
+
+.input{
+   background-color: beige;
+   width: 300;
+   border-radius: 10;
+}
+
+#container{
+   padding: 2 5;
+   border: 2px solid black;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: darkkhaki;
+}
