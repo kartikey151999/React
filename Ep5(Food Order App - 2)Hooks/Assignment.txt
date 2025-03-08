@@ -7,7 +7,6 @@ we use name export when we want to export more then 1 component/variable name fr
 for a single export 
 
 
-
 What is the importance of config.js file
 config.js file holds backend data that is use to create our UI. 
 It is also known as configDrivenUI file 
