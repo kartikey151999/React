@@ -1,0 +1,20 @@
+What is the difference between Named Export, Default export and * as export?
+
+-> Named Export is use with name as "export" with component/variable name .
+we use name export when we want to export more then 1 component/variable name from single file.
+
+-> Default export is export with "Default export component/variable name"
+for a single export 
+
+
+
+What is the importance of config.js file
+config.js file holds backend data that is use to create our UI. 
+It is also known as configDrivenUI file 
+
+What are React Hooks?
+A special React utilies/function that is given by react.
+
+Why do we need a useState Hook?
+we need useState Hook to keep our UI layer sync with data driven layer.
+when we call useStateMethod to update useState variable the react do rerender our component and perform reconcilation in virtual dom(js object) which will update actual dom and load inside the web page. 
